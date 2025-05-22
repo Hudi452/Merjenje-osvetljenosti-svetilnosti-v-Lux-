@@ -1,6 +1,7 @@
 # Merjenje-osvetljenosti-svetilnosti-v-Lux-
 
 Opis merilnika:
+
 Merilnik svetilnosti meri osvetljenost okolice s pomočjo fotoupora (LDR), ki tvori skupaj z uporom delilnik napetosti. Napetost delilnika se s spreminjanjem osvetljenosti spreminja. Napetost delilnika se meri s pomočjo analognega vhoda na Arduinu. Arduino nato izmerjeno napetost preko programa pretvori v svetilnost. Merilnik je kalibriran s pomočjo različnih meritev upornosti LDR pri različnih vrednostih osvetljenosti. 
 
 Merilnik lahko napajamo na 2 načina:
