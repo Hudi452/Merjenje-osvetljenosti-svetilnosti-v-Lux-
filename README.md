@@ -22,3 +22,4 @@ Kosovnica/seznam uporabljenih materialov in komponent:
 - 9V baterija,
 - 2x perfBoard,
 - 3D tiskano ohišje.
+
