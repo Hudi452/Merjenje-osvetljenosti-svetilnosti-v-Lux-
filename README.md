@@ -23,4 +23,4 @@ Kosovnica/seznam uporabljenih materialov in komponent:
 - 2x perfBoard,
 - 3D tiskano ohišje.
 
-![Alt text](images/)
+![Alt text](images/Vezalna shema.png)
