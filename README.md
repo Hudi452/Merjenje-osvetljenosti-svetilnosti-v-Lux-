@@ -23,4 +23,6 @@ Kosovnica/seznam uporabljenih materialov in komponent:
 - 2x perfBoard,
 - 3D tiskano ohišje.
 
-![Alt text](images/Vezalna shema.png)
+Vezalna shema v EasyEda:
+![slika](https://github.com/user-attachments/assets/218915aa-e3c6-4f5a-8136-5b7c91574b16)
+
