@@ -26,5 +26,6 @@ Kosovnica/seznam uporabljenih materialov in komponent:
 
 Vezalna shema v EasyEda:
 
-![slika](https://github.com/user-attachments/assets/218915aa-e3c6-4f5a-8136-5b7c91574b16)
+![image](https://github.com/user-attachments/assets/0e05291b-1e8b-4d22-8faf-3d609cb427c0)
+
 
