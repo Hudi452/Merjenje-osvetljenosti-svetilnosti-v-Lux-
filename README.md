@@ -19,6 +19,8 @@ Kosovnica/seznam uporabljenih materialov in komponent:
 - 3x LED (zelena, rumena, rdeča),
 - 3x 330E upori,
 - 10k upor,
+- 2x 1k upor,
+- NPN tranzistor (BC547B),
 - stikalo,
 - 9V baterija,
 - 2x perfBoard,
