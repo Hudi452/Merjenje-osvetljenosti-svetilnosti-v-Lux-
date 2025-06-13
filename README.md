@@ -30,6 +30,11 @@ Vezalna shema v EasyEda:
 
 ![image](https://github.com/user-attachments/assets/0e05291b-1e8b-4d22-8faf-3d609cb427c0)
 
+Sliki 3D ohišja:
+![image](https://github.com/user-attachments/assets/298028e0-9aca-4f5c-8229-1131230380fe)
+![image](https://github.com/user-attachments/assets/91279611-8788-4631-8f80-8990e5695769)
+
+
 Komentar na delovanje in natančnost merilnika: 
 
 Merilna naprava je kalibrirana z 49 meritvami osvetljenosti in upornosti LDR-ja. Najbolj natančna je med 0 in 1000 lux. Zadovoljivo natančno lahko izmerimo osvetljenost prostora do 2000 lux. Za osvetljenosti večje od 2000 lux pa je odstopanje lahko nekoliko večje, saj merilnik nima tako veliko referenčnih meritev v tem območju. Merilnik je namenjen za merjenje osvetljenosti v zgradbah (nižje osvetljenosti) in ne za merjenje osvetljenosti zunaj zgradbe (zelo visoke osvetljenosti). Programska oprema merilnika je fleksibilna, kar pomeni, da lahko kadarkoli dodamo nove referenčne vrednosti ter s tem povečamo natančnost merilnika.
