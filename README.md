@@ -1,4 +1,4 @@
-# Merjenje-osvetljenosti-svetilnosti-v-Lux-
+# Merjenje-osvetljenosti-v-Lux-
 
 Opis merilnika:
 
