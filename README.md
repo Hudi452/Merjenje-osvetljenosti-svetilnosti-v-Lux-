@@ -28,7 +28,8 @@ Kosovnica/seznam uporabljenih materialov in komponent:
 
 Vezalna shema v EasyEda:
 
-![image](https://github.com/user-attachments/assets/0e05291b-1e8b-4d22-8faf-3d609cb427c0)
+![Vezalna shema](https://github.com/user-attachments/assets/3c21bcf5-c981-4b73-8ec8-31ba3bddae8d)
+
 
 Sliki 3D ohišja:
 
