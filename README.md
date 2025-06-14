@@ -10,7 +10,7 @@ Merilnik lahko napajamo na 2 načina:
 
 Osvetljenost se lahko v enoti lux prikaže na serijskem zaslonu ali pa na I2C LCD-ju. S stikalom poleg LCD-ja pa lahko preklapljamo med dvema načinoma prikazovanja na LCD-ju. Če je stikalo v položaju HIGH, se na LCD-ju izpiše izmerjena osvetljenost v lux-ih. Če pa je stikalo v položaju LOW, pa se na LCD-ju prikaže osvetljenost s kvadratki, pri čemer vsak kvadratek predstavlja določeno osvetljenost.  
 
-Merilnik ima tudi 3 svetleče diode različnih barv (zelena, rumena in rdeča). Zelena svetleča dioda se prižge, ko je raven osvetljenosti prostora nizka, rumena svetleča dioda se prižge, ko je raven osvetljenosti prostora priporočena, rdeča svetleča dioda pa se prižge, ko je raven osvetljenosti prostora prevelika.
+Merilnik ima tudi 3 svetleče diode različnih barv (zelena, rumena in rdeča). Zelena svetleča dioda se prižge, ko je raven osvetljenosti prostora nizka (pod 500 lux), rumena svetleča dioda se prižge, ko je raven osvetljenosti prostora priporočena (med 500 in 2000 lux), rdeča svetleča dioda pa se prižge, ko je raven osvetljenosti prostora prevelika (nad 2000 lux).
 
 Kosovnica/seznam uporabljenih materialov in komponent:
 - Arduino Nano,
