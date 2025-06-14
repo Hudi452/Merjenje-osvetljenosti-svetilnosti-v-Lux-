@@ -35,6 +35,11 @@ Sliki 3D ohišja:
 ![image](https://github.com/user-attachments/assets/298028e0-9aca-4f5c-8229-1131230380fe)  ![image](https://github.com/user-attachments/assets/91279611-8788-4631-8f80-8990e5695769)
 
 
+Video merilnika:
+
+https://github.com/user-attachments/assets/409890ab-d2ac-4c7a-806d-2091aaab9561
+
+
 
 Komentar na delovanje in natančnost merilnika: 
 
